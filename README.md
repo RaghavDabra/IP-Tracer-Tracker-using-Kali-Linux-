@@ -24,7 +24,7 @@
 
 * `trace -m` to track your own ip address.
 
-* `trace -t target-ip` to track other's ip address for example `ip-tracer -t 127.0.0.1`
+* `trace -t target-ip` to track other's ip address for example `ip-tracer -t 203.176.55.72
 
 * `trace` for more information.
 
