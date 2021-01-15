@@ -5,20 +5,6 @@
            ;  \__________/'
          _/__         ___;
 
-## How to install IP-Tracer ?
-
-* `apt update`
-
-* `apt install git -y`
-
-* `https://github.com/RaghavDabra/IP-Tracer-Tracker-using-Kali-Linux-.git`
-
-* `cd IP-Tracer`
-
-* `chmod +x install`
-
-* `sh install` or `./install`
-
 
 ## How to use IP-Tracer
 
@@ -37,6 +23,23 @@
 * `106.206.150.202`
 * `207.104.148.106`
 * `207.44.229.231`
+
+
+## How to install IP-Tracer ?
+
+* `apt update`
+
+* `apt install git -y`
+
+* `https://github.com/RaghavDabra/IP-Tracer-Tracker-using-Kali-Linux-.git`
+
+* `cd IP-Tracer`
+
+* `chmod +x install`
+
+* `sh install` or `./install`
+
+
 
 
 
