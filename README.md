@@ -28,11 +28,16 @@
 
 * `trace` for more information.
 
-**OR**
+more ip address - 
+121.92.205.246
+32.195.19.37
+66.24.169.193
+73.179.90.56
+202.249.122.168
+106.206.150.202
+207.104.148.106
+207.44.229.231
 
-* `ip-tracer -m` to track your own ip address.
 
-* `ip-tracer -t target-ip` to track other's ip address for example `ip-tracer -t 93.204.58.77`
 
-* `ip-tracer` for more information.
 
