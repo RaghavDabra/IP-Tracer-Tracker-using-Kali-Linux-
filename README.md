@@ -13,7 +13,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `apt install git -y`
 
-* `git clone https://github.com/rajkumardusad/IP-Tracer.git`
+* `https://github.com/RaghavDabra/IP-Tracer-Tracker-using-Kali-Linux-.git`
 
 * `cd IP-Tracer`
 
@@ -34,7 +34,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `ip-tracer -m` to track your own ip address.
 
-* `ip-tracer -t target-ip` to track other's ip address for example `ip-tracer -t 127.0.0.1`
+* `ip-tracer -t target-ip` to track other's ip address for example `ip-tracer -t 93.204.58.77`
 
 * `ip-tracer` for more information.
 
